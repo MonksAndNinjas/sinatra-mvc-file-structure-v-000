@@ -9,6 +9,8 @@ class Dog
     @age = age
   end
 
-  def 
+  def all
+    @@all
+  end
 
 end
